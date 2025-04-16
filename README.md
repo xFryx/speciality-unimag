@@ -1,4 +1,6 @@
-# Quasar App (translate-app)
+# Quasar App ( Speciality )
+
+# Members: Edgar Simonds (And company)
 
 A Quasar Project
 
